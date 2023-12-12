@@ -1,0 +1,7 @@
+Run at 2023-12-12 11:45:22
+Model name: VITS
+Model load time: 10.980414390563965
+Number of instances: 1
+Number of inferences per instance: 25
+Average inference time: 0.23820128440856933 seconds
+
