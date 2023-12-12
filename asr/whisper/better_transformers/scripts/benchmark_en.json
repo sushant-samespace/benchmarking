@@ -1,0 +1,28 @@
+[
+    {
+        "model": "openai/whisper-tiny",
+        "language": "en",
+        "better_transformers": true,
+        "flash_attention_v2": false,
+        "batch_size": 4,
+        "load_time": 2.674489736557007,
+        "gpu_before_load": 105.0,
+        "gpu_after_load": 282.0,
+        "inference_time": 1.0307371616363525,
+        "max_gpu_used": -1,
+        "response": [
+            {
+                "text": " I want to talk to Seel. I'm having some problem with my connectivity."
+            },
+            {
+                "text": " I want to talk to Seel. I'm having some problem with my connectivity."
+            },
+            {
+                "text": " I want to talk to Seel. I'm having some problem with my connectivity."
+            },
+            {
+                "text": " I want to talk to Seel. I'm having some problem with my connectivity."
+            }
+        ]
+    }
+]

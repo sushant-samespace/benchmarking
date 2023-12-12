@@ -1,0 +1,29 @@
+{
+    "backend": "vllm",
+    "total_time": 0.25423728600071627,
+    "Throughput (requests/s)": 11.800000099086757,
+    "requests_latency": [
+        {
+            "prompt": "You are an AI assistant.\nUser: hey\nAssistant:",
+            "response": "You are an AI assistant.\nUser: hey\nAssistant: hello",
+            "time_taken": 0.24773850999918068,
+            "input_tokens": 15,
+            "output_tokens": 17
+        },
+        {
+            "prompt": "You are an AI assistant.\nUser: hey\nAssistant:",
+            "response": "You are an AI assistant.\nUser: hey\nAssistant: hello",
+            "time_taken": 0.2487976250013162,
+            "input_tokens": 15,
+            "output_tokens": 17
+        },
+        {
+            "prompt": "You are an AI assistant.\nUser: hey\nAssistant:",
+            "response": "You are an AI assistant.\nUser: hey\nAssistant: hello",
+            "time_taken": 0.24959138299891492,
+            "input_tokens": 15,
+            "output_tokens": 17
+        }
+    ],
+    "batch_size": 3
+}
